@@ -23,12 +23,12 @@ The 3D_design_robot_leg project is a 3D model designed to showcase the integrati
 - Tinkercad account (for modifications)
 - Motor controller board
 - Power supply
-- [STL File](./path-to-your-STL-file)
-
+- [STL File](https://github.com/xd7fx/3D.design.robot.leg/blob/e90d82ee7f02cbcf1bbf153b3436d0bf28c9736f/robot%203D%20with%20servo%20motors.stl)
+  
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3D_design_robot_leg.git
+   https://github.com/xd7fx/3D.design.robot.leg/blob/e90d82ee7f02cbcf1bbf153b3436d0bf28c9736f/robot%203D%20with%20servo%20motors.stl
 
 Print the 3D model using a 3D printer.
 Assemble the parts as shown in the image provided.
