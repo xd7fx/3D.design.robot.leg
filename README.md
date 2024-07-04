@@ -46,10 +46,5 @@ Spectacular Allis.stl: The main 3D model file.
 ![لقطة الشاشة 2024-07-04 142036](https://github.com/xd7fx/3D.design.robot.leg/assets/173664349/279a2a7c-4980-4e70-a886-0c5dc80d2a7f)
 
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 نسخ الكود
