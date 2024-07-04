@@ -9,8 +9,6 @@ This project contains a 3D model created using Tinkercad. The model is designed 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The 3D_design_robot_leg project is a 3D model designed to showcase the integration of eight motors to achieve complex movements. The model was created using Tinkercad and is intended for educational and experimental purposes.
